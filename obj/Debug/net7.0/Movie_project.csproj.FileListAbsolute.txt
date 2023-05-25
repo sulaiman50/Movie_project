@@ -1,0 +1,15 @@
+C:\Users\Faisal\Desktop\Movie_project\bin\Debug\net7.0\Movie_project.exe
+C:\Users\Faisal\Desktop\Movie_project\bin\Debug\net7.0\Movie_project.deps.json
+C:\Users\Faisal\Desktop\Movie_project\bin\Debug\net7.0\Movie_project.runtimeconfig.json
+C:\Users\Faisal\Desktop\Movie_project\bin\Debug\net7.0\Movie_project.dll
+C:\Users\Faisal\Desktop\Movie_project\bin\Debug\net7.0\Movie_project.pdb
+C:\Users\Faisal\Desktop\Movie_project\obj\Debug\net7.0\Movie_project.csproj.AssemblyReference.cache
+C:\Users\Faisal\Desktop\Movie_project\obj\Debug\net7.0\Movie_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faisal\Desktop\Movie_project\obj\Debug\net7.0\Movie_project.AssemblyInfoInputs.cache
+C:\Users\Faisal\Desktop\Movie_project\obj\Debug\net7.0\Movie_project.AssemblyInfo.cs
+C:\Users\Faisal\Desktop\Movie_project\obj\Debug\net7.0\Movie_project.csproj.CoreCompileInputs.cache
+C:\Users\Faisal\Desktop\Movie_project\obj\Debug\net7.0\Movie_project.dll
+C:\Users\Faisal\Desktop\Movie_project\obj\Debug\net7.0\refint\Movie_project.dll
+C:\Users\Faisal\Desktop\Movie_project\obj\Debug\net7.0\Movie_project.pdb
+C:\Users\Faisal\Desktop\Movie_project\obj\Debug\net7.0\Movie_project.genruntimeconfig.cache
+C:\Users\Faisal\Desktop\Movie_project\obj\Debug\net7.0\ref\Movie_project.dll
